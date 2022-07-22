@@ -1,3 +1,4 @@
+![CI](https://github.com/ianisparfait/nuxt-back-firebase/workflows/CI/badge.svg)  
 # nuxt-back-firebase
 
 ## Build Setup
